@@ -1,6 +1,6 @@
-## Welcome to Lib ##
+## Welcome to Utils ##
 
-**lib** 是我工作中用的到一些小方法.
+**Utils** 是我工作中用的到一些小方法.
 
 ### Early() ###
 
