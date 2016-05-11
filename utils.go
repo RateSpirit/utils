@@ -1,4 +1,4 @@
-package lib
+package utils
 
 import (
 	sf "github.com/yzw/snowflake"
